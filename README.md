@@ -1,1 +1,2 @@
 # CNN
+After I applied CNN and VGG19 I can see that, the accuracy of VGG19 is better than CNN. The accuracy of CNN is 82.67% and 87% of VGG19. Most of the times my model is unable to classify the sea image correctly. I think this is one of the reasons why the performance in CNN is less. Also, when I applied the 10-croos validation on CNN1, the accuracy was decreased to 69.2%. VGG19 performs better than CNN in this case, so I chose VGG19 to classify new images.
